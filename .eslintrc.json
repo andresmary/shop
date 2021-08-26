@@ -3,7 +3,6 @@
   "rules": {
     "max-len": ["error", { "ignoreComments": true, "code": 150 }],
     "eol-last": ["error", "always"],
-    "linebreak-style": ["error", "windows"],
     "object-curly-newline": "off",
     "react/prop-types": "off",
     "react/require-default-props": "off",
