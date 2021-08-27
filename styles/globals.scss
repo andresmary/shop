@@ -7,6 +7,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
+  min-height: 100vh;
+  background-color: var(--grey-700);
 }
 
 a {
@@ -16,4 +18,8 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+header {
+  background-color: var(--yellow);
 }

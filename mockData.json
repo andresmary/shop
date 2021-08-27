@@ -1,0 +1,4640 @@
+{
+  "site_id": "MLA",
+  "country_default_time_zone": "GMT-03:00",
+  "query": " :zapatillas",
+  "paging": {
+    "total": 167741,
+    "primary_results": 1000,
+    "offset": 0,
+    "limit": 50
+  },
+  "results": [
+    {
+      "id": "MLA800264201",
+      "site_id": "MLA",
+      "title": "Zapatillas Jaguar Oficial Deportiva Art. # 918 Urbana Hombre Y Mujer",
+      "seller": {
+        "id": 278944476,
+        "permalink": "http://perfil.mercadolibre.com.ar/JAGUAROFICIAL",
+        "registration_date": "2017-10-18T15:25:57.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "user_info_verified",
+          "large_seller",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 140955,
+            "canceled": 12955,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "positive": 0.96,
+              "neutral": 0.01
+            },
+            "completed": 128000
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0066,
+              "value": 188,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.004,
+              "value": 110,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 25941
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 2490,
+      "prices": {
+        "id": "MLA800264201",
+        "prices": [
+          {
+            "id": "60",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 2490,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-07-13T16:42:26Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "9",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-03-17T04:26:51Z",
+              "end_time": "2021-03-20T04:26:51Z",
+              "eligible": true
+            },
+            "amount": 2020.45,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-03-17T04:26:51Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 5000,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2039-10-11T14:28:23.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-800264201-zapatillas-jaguar-oficial-deportiva-art-918-urbana-hombre-y-mujer-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_753883-MLA41787404474_052020-O.jpg",
+      "thumbnail_id": "753883-MLA41787404474_052020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 353.1,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Valentín Alsina"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "self_service_in"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Valentín Alsina"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "value_id": "23629",
+          "value_name": "Jaguar",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "source": 4060709329251625,
+          "id": "BRAND",
+          "values": [
+            {
+              "struct": null,
+              "source": 4060709329251625,
+              "id": "23629",
+              "name": "Jaguar"
+            }
+          ],
+          "attribute_group_name": "Otros"
+        },
+        {
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 8342579661593500
+            }
+          ],
+          "source": 8342579661593500,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "attribute_group_name": "Otros",
+          "source": 4060709329251625,
+          "name": "Modelo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "918 Deportiva",
+              "struct": null,
+              "source": 4060709329251625
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "id": "MODEL",
+          "value_id": null,
+          "value_name": "918 Deportiva"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": 2293,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": "MLA15718514",
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 1,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA826728886",
+      "site_id": "MLA",
+      "title": "Zapatillas Skater De Lona Unisex :: Oferta!!",
+      "seller": {
+        "id": 154653260,
+        "permalink": "http://perfil.mercadolibre.com.ar/CALZADOSJP",
+        "registration_date": "2014-02-26T09:20:27.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_priority_4",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 39540,
+            "canceled": 2238,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 37302
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.004,
+              "value": 25,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0014,
+              "value": 9,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 5822
+            },
+            "cancellations": {
+              "rate": 0.0008,
+              "value": 5,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1249,
+      "prices": {
+        "id": "MLA826728886",
+        "prices": [
+          {
+            "id": "4",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 1249,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-08-19T19:23:46Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 250,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2039-11-17T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-826728886-zapatillas-skater-de-lona-unisex-oferta-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_941056-MLA32966152562_112019-O.jpg",
+      "thumbnail_id": "941056-MLA32966152562_112019",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 177.12,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Lanus Oeste"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "self_service_in"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Lanus Oeste"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "value_id": null,
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "value_name": "Wembly",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Wembly",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 6808261514773724
+        },
+        {
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 6808261514773724
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "115",
+          "attribute_group_id": "OTHERS",
+          "value_id": null,
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "115",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 2,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA716347136",
+      "site_id": "MLA",
+      "title": "Zapatillas Ozono Skate Directo De Fábrica",
+      "seller": {
+        "id": 265699968,
+        "permalink": "http://perfil.mercadolibre.com.ar/OZONO+CALZADOS",
+        "registration_date": "2017-07-25T10:03:21.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "eshop",
+          "mshops",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "eshop": {
+          "nick_name": "OZONO CALZADOS",
+          "eshop_rubro": null,
+          "eshop_id": 317777,
+          "eshop_locations": [
+          ],
+          "site_id": "MLA",
+          "eshop_logo_url": "http://resources.mlstatic.com/eshops/265699968v9afe2d.png",
+          "eshop_status_id": 1,
+          "seller": 265699968,
+          "eshop_experience": 0
+        },
+        "seller_reputation": {
+          "transactions": {
+            "total": 25737,
+            "canceled": 1513,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 24224
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0046,
+              "value": 24,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0025,
+              "value": 13,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 4804
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 2460,
+      "prices": {
+        "id": "MLA716347136",
+        "prices": [
+          {
+            "id": "82",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 2899,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-08-19T12:22:07Z"
+          },
+          {
+            "id": "83",
+            "type": "promotion",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-08-23T01:00:00Z",
+              "end_time": "2021-09-07T02:59:00Z",
+              "eligible": true
+            },
+            "amount": 2460,
+            "regular_amount": 2673,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+              "campaign_id": "MLA6791",
+              "promotion_id": "MLA6791",
+              "promotion_type": "campaign"
+            },
+            "last_updated": "2021-08-23T02:10:10Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 500,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2038-12-28T18:13:50.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-716347136-zapatillas-ozono-skate-directo-de-fabrica-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_711637-MLA31116633552_062019-O.jpg",
+      "thumbnail_id": "711637-MLA31116633552_062019",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 348.85,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Valentín Alsina"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "self_service_in"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Valentín Alsina"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "value_id": "2786791",
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "value_name": "Ozono",
+          "values": [
+            {
+              "id": "2786791",
+              "name": "Ozono",
+              "struct": null,
+              "source": 1577
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 1577
+        },
+        {
+          "attribute_group_name": "Otros",
+          "source": 1572,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "values": [
+            {
+              "name": "Nuevo",
+              "struct": null,
+              "source": 1572,
+              "id": "2230284"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null
+        },
+        {
+          "values": [
+            {
+              "id": null,
+              "name": "skate",
+              "struct": null,
+              "source": 5033071320073938
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "value_id": null,
+          "value_name": "skate",
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "source": 5033071320073938,
+          "id": "LINE",
+          "name": "Línea"
+        },
+        {
+          "source": 1577,
+          "id": "MODEL",
+          "value_id": null,
+          "values": [
+            {
+              "source": 1577,
+              "id": null,
+              "name": "Art. 800",
+              "struct": null
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "name": "Modelo",
+          "value_name": "Art. 800",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS"
+        }
+      ],
+      "original_price": 2673,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 3,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA785937833",
+      "site_id": "MLA",
+      "title": "Zapatillas Marca Rcn Ultraliviana Negra",
+      "seller": {
+        "id": 76706330,
+        "permalink": "http://perfil.mercadolibre.com.ar/TOTONIO2",
+        "registration_date": "2004-11-04T06:38:28.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "eshop",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "eshop": {
+          "nick_name": "TOTONIO2",
+          "eshop_rubro": null,
+          "eshop_id": 399923,
+          "eshop_locations": [
+          ],
+          "site_id": "MLA",
+          "eshop_logo_url": "http://resources.mlstatic.com/eshops/76706330v031552.png",
+          "eshop_status_id": 1,
+          "seller": 76706330,
+          "eshop_experience": 0
+        },
+        "seller_reputation": {
+          "transactions": {
+            "total": 11168,
+            "canceled": 677,
+            "period": "historic",
+            "ratings": {
+              "negative": 0,
+              "positive": 0.99,
+              "neutral": 0.01
+            },
+            "completed": 10491
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0,
+              "value": 1,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0114,
+              "value": 17,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 1435
+            },
+            "cancellations": {
+              "rate": 0.0019,
+              "value": 3,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 2199,
+      "prices": {
+        "id": "MLA785937833",
+        "prices": [
+          {
+            "id": "4",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 2199,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-06-16T03:20:19Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 50,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2039-05-06T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-785937833-zapatillas-marca-rcn-ultraliviana-negra-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_673060-MLA41186638161_032020-O.jpg",
+      "thumbnail_id": "673060-MLA41186638161_032020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 311.84,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-S",
+        "state_name": "Santa Fe",
+        "city_id": null,
+        "city_name": "Santa Fe"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "fulfillment"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-S",
+          "name": "Santa Fe"
+        },
+        "city": {
+          "id": null,
+          "name": "Santa Fe"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "value_id": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 3376461333454861,
+          "id": "BRAND",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "RCN",
+              "struct": null,
+              "source": 3376461333454861
+            }
+          ],
+          "value_name": "RCN"
+        },
+        {
+          "value_id": "2230284",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 1,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 1
+            }
+          ]
+        },
+        {
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "id": "MODEL",
+          "value_name": "Ultraliviana",
+          "values": [
+            {
+              "source": 3376461333454861,
+              "id": null,
+              "name": "Ultraliviana",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 3376461333454861,
+          "name": "Modelo",
+          "value_id": null
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA3724",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 4,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA882405465",
+      "site_id": "MLA",
+      "title": "Zapatillas Anatómicas Tela Elastizada Cómodas ",
+      "seller": {
+        "id": 117311433,
+        "permalink": "http://perfil.mercadolibre.com.ar/HERNANZ",
+        "registration_date": "2012-07-18T13:37:29.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 10334,
+            "canceled": 716,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "positive": 0.95,
+              "neutral": 0.02
+            },
+            "completed": 9618
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0037,
+              "value": 18,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.069,
+              "value": 324,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 4573
+            },
+            "cancellations": {
+              "rate": 0.0006,
+              "value": 3,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1749,
+      "prices": {
+        "id": "MLA882405465",
+        "prices": [
+          {
+            "id": "28",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 1749,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-05-17T22:53:41Z"
+          },
+          {
+            "id": "99",
+            "type": "promotion",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-08-25T03:00:00Z",
+              "end_time": "2021-08-26T02:59:59Z",
+              "eligible": true
+            },
+            "amount": 1661.55,
+            "regular_amount": 1749,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+              "promotion_id": "3595555-MLA882405465",
+              "promotion_type": "deal_of_the_day"
+            },
+            "last_updated": "2021-08-26T01:05:58Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "4",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-03-17T04:24:03Z",
+              "end_time": "2021-03-20T04:24:03Z",
+              "eligible": true
+            },
+            "amount": 1490.63,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-03-17T04:24:03Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 500,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2041-02-03T16:28:42.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-882405465-zapatillas-anatomicas-tela-elastizada-comodas-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_836154-MLA45602816374_042021-O.jpg",
+      "thumbnail_id": "836154-MLA45602816374_042021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 248.02,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ0xPTWMwNjk3",
+        "city_name": "Lomas de Zamora"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "self_service_in"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ0xPTWMwNjk3",
+          "name": "Lomas de Zamora"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_id": null,
+          "value_struct": null,
+          "source": 2860837171021627,
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "difher shoes",
+          "values": [
+            {
+              "source": 2860837171021627,
+              "id": null,
+              "name": "difher shoes",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "source": 2860837171021627
+        },
+        {
+          "id": "MODEL",
+          "attribute_group_name": "Otros",
+          "value_name": "anatomicas",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "anatomicas",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 2860837171021627,
+          "name": "Modelo",
+          "value_id": null
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 5,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA916881318",
+      "site_id": "MLA",
+      "title": "Zapatillas Mujer Plataforma Moda Araquina Goma Alta Atlanta",
+      "seller": {
+        "id": 651540435,
+        "permalink": "http://perfil.mercadolibre.com.ar/ARAQUINA+ONLINE",
+        "registration_date": "2020-09-26T10:29:12.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 4309,
+            "canceled": 395,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "positive": 0.96,
+              "neutral": 0.01
+            },
+            "completed": 3914
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0067,
+              "value": 22,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0041,
+              "value": 13,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 2966
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 3699,
+      "prices": {
+        "id": "MLA916881318",
+        "prices": [
+          {
+            "id": "18",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 3699,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-06-21T14:21:33Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 250,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2041-04-14T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-916881318-zapatillas-mujer-plataforma-moda-araquina-goma-alta-atlanta-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_937207-MLA45728508578_042021-O.jpg",
+      "thumbnail_id": "937207-MLA45728508578_042021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 524.55,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": null,
+        "city_name": "CABA"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "self_service_out",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": null,
+          "name": "CABA"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "values": [
+            {
+              "id": "10882762",
+              "name": "Araquina",
+              "struct": null,
+              "source": 81068639424647
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "source": 81068639424647,
+          "id": "BRAND",
+          "value_id": "10882762",
+          "value_name": "Araquina"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "attribute_group_name": "Otros",
+          "source": 81068639424647,
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 81068639424647
+            }
+          ],
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "source": 81068639424647,
+          "name": "Modelo",
+          "attribute_group_id": "OTHERS",
+          "value_name": "Atlanta",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "110744",
+              "name": "Atlanta",
+              "struct": null,
+              "source": 81068639424647
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "id": "MODEL",
+          "value_id": "110744"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": "MLA18335143",
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 6,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA880458572",
+      "site_id": "MLA",
+      "title": "Zapatillas Fila Discovery 0242",
+      "seller": {
+        "id": 177433927,
+        "permalink": "http://perfil.mercadolibre.com.ar/GRIDANNEXSA",
+        "registration_date": "2015-02-18T11:51:57.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "user_info_verified",
+          "large_seller",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 239638,
+            "canceled": 22878,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.07,
+              "positive": 0.91,
+              "neutral": 0.02
+            },
+            "completed": 216760
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0073,
+              "value": 336,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0,
+              "excluded": {
+                "real_rate": 0.0432,
+                "real_value": 1861
+              },
+              "value": 0,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 41500
+            },
+            "cancellations": {
+              "rate": 0.0142,
+              "value": 652,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 5989,
+      "prices": {
+        "id": "MLA880458572",
+        "prices": [
+          {
+            "id": "3",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 5989,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-06-17T16:21:48Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 500,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-09-19T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-880458572-zapatillas-fila-discovery-0242-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_708000-MLA43566860313_092020-O.jpg",
+      "thumbnail_id": "708000-MLA43566860313_092020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 849.29,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Martínez"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Martínez"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "attribute_group_name": "Otros",
+          "source": 4954751883138633,
+          "name": "Marca",
+          "value_id": "243483",
+          "value_name": "Fila",
+          "values": [
+            {
+              "struct": null,
+              "source": 4954751883138633,
+              "id": "243483",
+              "name": "Fila"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "id": "BRAND",
+          "value_struct": null
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "values": [
+            {
+              "source": 4954751883138633,
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 4954751883138633,
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "value_struct": null
+        },
+        {
+          "name": "Modelo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "431-0242",
+              "struct": null,
+              "source": 4954751883138633
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 4954751883138633,
+          "id": "MODEL",
+          "value_id": null,
+          "value_name": "431-0242",
+          "attribute_group_name": "Otros"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": 2008,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": "MLA15790600",
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 7,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA864493209",
+      "site_id": "MLA",
+      "title": "Zapatillas Hombre Reforzas Trekking Trabajo Grip Hasta 46",
+      "seller": {
+        "id": 154653260,
+        "permalink": "http://perfil.mercadolibre.com.ar/CALZADOSJP",
+        "registration_date": "2014-02-26T09:20:27.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_priority_4",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 39540,
+            "canceled": 2238,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 37302
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.004,
+              "value": 25,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0014,
+              "value": 9,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 5822
+            },
+            "cancellations": {
+              "rate": 0.0008,
+              "value": 5,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 4499,
+      "prices": {
+        "id": "MLA864493209",
+        "prices": [
+          {
+            "id": "14",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 4499,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-08-09T17:31:11Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "11",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-03-17T04:25:06Z",
+              "end_time": "2021-03-20T04:25:06Z",
+              "eligible": true
+            },
+            "amount": 3999,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-03-17T04:25:06Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 250,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-06-20T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-864493209-zapatillas-hombre-reforzas-trekking-trabajo-grip-hasta-46-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_665494-MLA42351035569_062020-O.jpg",
+      "thumbnail_id": "665494-MLA42351035569_062020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 638,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Lanus Oeste"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Lanus Oeste"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "attribute_group_name": "Otros",
+          "name": "Marca",
+          "value_id": "9078145",
+          "values": [
+            {
+              "id": "9078145",
+              "name": "Action Team",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 6808261514773724,
+          "id": "BRAND",
+          "value_name": "Action Team",
+          "value_struct": null
+        },
+        {
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 6808261514773724,
+          "id": "ITEM_CONDITION",
+          "value_name": "Nuevo"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "3302 Montaña",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "value_name": "3302 Montaña",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": "MLA16160926",
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 8,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA853908575",
+      "site_id": "MLA",
+      "title": "Zapatilla Urbana Hombre Deli Art 733",
+      "seller": {
+        "id": 22350002,
+        "permalink": "http://perfil.mercadolibre.com.ar/CALZADOS+TRIBYLYN",
+        "registration_date": "2003-05-19T00:00:00.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 22856,
+            "canceled": 1085,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.99,
+              "neutral": 0
+            },
+            "completed": 21771
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.002,
+              "value": 5,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0017,
+              "value": 4,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 2316
+            },
+            "cancellations": {
+              "rate": 0.0032,
+              "value": 8,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1960,
+      "prices": {
+        "id": "MLA853908575",
+        "prices": [
+          {
+            "id": "20",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 1960,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-07-30T17:41:14Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 150,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-05-02T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-853908575-zapatilla-urbana-hombre-deli-art-733-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_668731-MLA43640720014_102020-O.jpg",
+      "thumbnail_id": "668731-MLA43640720014_102020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 277.94,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkZMTzg5MjFa",
+        "city_name": "Floresta"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "self_service_in"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkZMTzg5MjFa",
+          "name": "Floresta"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_struct": null,
+          "source": 1505,
+          "value_id": "2381506",
+          "value_name": "Deli",
+          "values": [
+            {
+              "source": 1505,
+              "id": "2381506",
+              "name": "Deli",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724,
+          "id": "ITEM_CONDITION",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "id": "MODEL",
+          "value_id": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 6808261514773724,
+              "id": null,
+              "name": "ZAPATILLA"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "name": "Modelo",
+          "value_name": "ZAPATILLA",
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 9,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA745531777",
+      "site_id": "MLA",
+      "title": "Zapato Zapatilla Mujer Blanca Sneaker Urbana Plataforma Moda",
+      "seller": {
+        "id": 272745908,
+        "permalink": "http://perfil.mercadolibre.com.ar/-LOCUANTI-",
+        "registration_date": "2017-09-10T23:16:48.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "eshop",
+          "credits_profile",
+          "mshops",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "eshop": {
+          "nick_name": "-LOCUANTI-",
+          "eshop_rubro": null,
+          "eshop_id": 332361,
+          "eshop_locations": [
+          ],
+          "site_id": "MLA",
+          "eshop_logo_url": "http://resources.mlstatic.com/eshops/272745908v685231.png",
+          "eshop_status_id": 1,
+          "seller": 272745908,
+          "eshop_experience": 0
+        },
+        "seller_reputation": {
+          "transactions": {
+            "total": 8927,
+            "canceled": 1076,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.04,
+              "positive": 0.95,
+              "neutral": 0.01
+            },
+            "completed": 7851
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.008,
+              "value": 9,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0148,
+              "value": 16,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 983
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 3025,
+      "prices": {
+        "id": "MLA745531777",
+        "prices": [
+          {
+            "id": "34",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 3999,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-05-12T23:34:32Z"
+          },
+          {
+            "id": "69",
+            "type": "promotion",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-08-23T01:00:00Z",
+              "end_time": "2021-09-07T02:59:00Z",
+              "eligible": true
+            },
+            "amount": 3025,
+            "regular_amount": 3999,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+              "campaign_id": "MLA6791",
+              "promotion_id": "MLA6791",
+              "promotion_type": "campaign"
+            },
+            "last_updated": "2021-08-23T02:11:50Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 50,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2041-07-21T21:06:57.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-745531777-zapato-zapatilla-mujer-blanca-sneaker-urbana-plataforma-moda-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_979370-MLA43140051888_082020-O.jpg",
+      "thumbnail_id": "979370-MLA43140051888_082020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 428.97,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Buenos Aires"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "self_service_out",
+          "fs_threshold_mla_change_feb2021"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Buenos Aires"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "value_id": null,
+          "value_name": "Poppys",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "source": 3376461333454861,
+          "name": "Marca",
+          "values": [
+            {
+              "id": null,
+              "name": "Poppys",
+              "struct": null,
+              "source": 3376461333454861
+            }
+          ],
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "source": 1572,
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "values": [
+            {
+              "name": "Nuevo",
+              "struct": null,
+              "source": 1572,
+              "id": "2230284"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "name": "Línea",
+          "value_id": null,
+          "value_struct": null,
+          "source": 1572,
+          "id": "LINE",
+          "values": [
+            {
+              "name": "Urbana",
+              "struct": null,
+              "source": 1572,
+              "id": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_name": "Urbana"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "799",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_id": null,
+          "values": [
+            {
+              "name": "799",
+              "struct": null,
+              "source": 3376461333454861,
+              "id": null
+            }
+          ],
+          "source": 3376461333454861
+        }
+      ],
+      "original_price": 3999,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 10,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA874153200",
+      "site_id": "MLA",
+      "title": "Zapatillas De Hombre Deportivas Comodas Y Livianas 35al44",
+      "seller": {
+        "id": 156633284,
+        "permalink": "http://perfil.mercadolibre.com.ar/ALEM+CALZADOS",
+        "registration_date": "2014-04-04T11:25:28.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "mshops",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 20958,
+            "canceled": 1736,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 19222
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0033,
+              "value": 9,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 2519
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1990,
+      "prices": {
+        "id": "MLA874153200",
+        "prices": [
+          {
+            "id": "10",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 1990,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-07-08T01:22:54Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-08-14T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-874153200-zapatillas-de-hombre-deportivas-comodas-y-livianas-35al44-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_975128-MLA45674757037_042021-O.jpg",
+      "thumbnail_id": "975128-MLA45674757037_042021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 282.2,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-X",
+        "state_name": "Córdoba",
+        "city_id": "TUxBQ0NBUGNiZGQx",
+        "city_name": "Córdoba"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "fulfillment"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-X",
+          "name": "Córdoba"
+        },
+        "city": {
+          "id": "TUxBQ0NBUGNiZGQx",
+          "name": "Córdoba"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "attribute_group_id": "OTHERS",
+          "value_struct": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 6808261514773724,
+              "id": null,
+              "name": "fly cross"
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724,
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "fly cross"
+        },
+        {
+          "attribute_group_name": "Otros",
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "value_id": "2230284",
+          "value_struct": null,
+          "values": [
+            {
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724,
+              "id": "2230284"
+            }
+          ],
+          "source": 6808261514773724
+        },
+        {
+          "attribute_group_name": "Otros",
+          "name": "Modelo",
+          "value_id": null,
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "id": "MODEL",
+          "value_name": "270127-408-01",
+          "values": [
+            {
+              "id": null,
+              "name": "270127-408-01",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "source": 6808261514773724
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 11,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA830670188",
+      "site_id": "MLA",
+      "title": "Zapatilla Mujer Star Lona (consultexmayor)",
+      "seller": {
+        "id": 333523659,
+        "permalink": "http://perfil.mercadolibre.com.ar/CALZADOS+NAYREE",
+        "registration_date": "2018-07-04T13:19:29.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 11278,
+            "canceled": 907,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.99,
+              "neutral": 0
+            },
+            "completed": 10371
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0057,
+              "value": 14,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0021,
+              "value": 5,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 2249
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1550,
+      "prices": {
+        "id": "MLA830670188",
+        "prices": [
+          {
+            "id": "9",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 1550,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-08-02T11:04:25Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "4",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-03-06T04:45:12Z",
+              "end_time": "2021-03-09T04:45:12Z",
+              "eligible": true
+            },
+            "amount": 1299.39,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-03-06T04:45:12Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 200,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2039-12-12T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-830670188-zapatilla-mujer-star-lona-consultexmayor-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_791794-MLA40163244194_122019-O.jpg",
+      "thumbnail_id": "791794-MLA40163244194_122019",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 219.8,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": "TUxBQ0xBTmJjYzE4",
+        "city_name": "Lanús"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "self_service_in"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": "TUxBQ0xBTmJjYzE4",
+          "name": "Lanús"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "source": 6808261514773724,
+          "name": "Marca",
+          "value_name": "Nayree Nebrox",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Nayree Nebrox",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "value_id": null,
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "values": [
+            {
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724,
+              "id": "2230284"
+            }
+          ],
+          "source": 6808261514773724,
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "id": "ITEM_CONDITION",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "id": "MODEL",
+          "value_name": "840",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "name": "Modelo",
+          "value_id": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 6808261514773724,
+              "id": null,
+              "name": "840"
+            }
+          ],
+          "source": 6808261514773724
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 12,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA621652592",
+      "site_id": "MLA",
+      "title": "Zapatillas Panchas Nauticas :: Lona Reforzada Wembly Oferta!",
+      "seller": {
+        "id": 154653260,
+        "permalink": "http://perfil.mercadolibre.com.ar/CALZADOSJP",
+        "registration_date": "2014-02-26T09:20:27.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_priority_4",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 39540,
+            "canceled": 2238,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 37302
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.004,
+              "value": 25,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0014,
+              "value": 9,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 5822
+            },
+            "cancellations": {
+              "rate": 0.0008,
+              "value": 5,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1279,
+      "prices": {
+        "id": "MLA621652592",
+        "prices": [
+          {
+            "id": "6",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 1279,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-08-19T19:23:44Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "3",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-03-06T04:54:28Z",
+              "end_time": "2021-03-09T04:54:28Z",
+              "eligible": true
+            },
+            "amount": 1110.88,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-03-06T04:54:28Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 250,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-05-20T14:38:36.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-621652592-zapatillas-panchas-nauticas-lona-reforzada-wembly-oferta-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_661084-MLA40604586685_012020-O.jpg",
+      "thumbnail_id": "661084-MLA40604586685_012020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 181.37,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Lanus Oeste"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "self_service_in"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Lanus Oeste"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "attribute_group_name": "Otros",
+          "source": 1,
+          "id": "BRAND",
+          "values": [
+            {
+              "source": 1,
+              "id": "2786771",
+              "name": "Cover Your Bones",
+              "struct": null
+            }
+          ],
+          "value_name": "Cover Your Bones",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "name": "Marca",
+          "value_id": "2786771"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "values": [
+            {
+              "struct": null,
+              "source": 1,
+              "id": "2230284",
+              "name": "Nuevo"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 1,
+          "value_id": "2230284",
+          "value_struct": null,
+          "attribute_group_name": "Otros"
+        },
+        {
+          "value_id": null,
+          "value_struct": null,
+          "values": [
+            {
+              "source": 1572,
+              "id": null,
+              "name": "680",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "id": "MODEL",
+          "value_name": "680",
+          "attribute_group_name": "Otros",
+          "source": 1572,
+          "name": "Modelo"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "dragged_bids_and_visits",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 13,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA873683455",
+      "site_id": "MLA",
+      "title": "Calzado Urbano Con Base Antideslizante, Números 38/46..",
+      "seller": {
+        "id": 387614355,
+        "permalink": "http://perfil.mercadolibre.com.ar/EMECALZADOS",
+        "registration_date": "2018-12-17T16:29:41.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 1651,
+            "canceled": 80,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "positive": 0.96,
+              "neutral": 0.01
+            },
+            "completed": 1571
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0064,
+              "value": 8,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.1331,
+              "value": 163,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 1197
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 1,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 3500,
+      "prices": {
+        "id": "MLA873683455",
+        "prices": [
+          {
+            "id": "7",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 3500,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-08-04T09:18:49Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 50,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-08-11T22:24:40.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-873683455-calzado-urbano-con-base-antideslizante-numeros-3846-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_721049-MLA44796742331_022021-O.jpg",
+      "thumbnail_id": "721049-MLA44796742331_022021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 496.33,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Isidro Casanova"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "xd_drop_off",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Isidro Casanova"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "SHR deportivas",
+          "values": [
+            {
+              "id": null,
+              "name": "SHR deportivas",
+              "struct": null,
+              "source": 7092
+            }
+          ],
+          "source": 7092
+        },
+        {
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 7092
+            }
+          ],
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 7092
+        },
+        {
+          "id": "MODEL",
+          "value_id": null,
+          "value_name": "Urbano",
+          "values": [
+            {
+              "id": null,
+              "name": "Urbano",
+              "struct": null,
+              "source": 1505
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "name": "Modelo",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "source": 1505
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 14,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA883724911",
+      "site_id": "MLA",
+      "title": "Zapatilla Araquina Bagdad Mujer Plataforma Liviana",
+      "seller": {
+        "id": 651540435,
+        "permalink": "http://perfil.mercadolibre.com.ar/ARAQUINA+ONLINE",
+        "registration_date": "2020-09-26T10:29:12.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 4309,
+            "canceled": 395,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "positive": 0.96,
+              "neutral": 0.01
+            },
+            "completed": 3914
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0067,
+              "value": 22,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0041,
+              "value": 13,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 2966
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 2549.25,
+      "prices": {
+        "id": "MLA883724911",
+        "prices": [
+          {
+            "id": "25",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 3399,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-06-28T23:26:40Z"
+          },
+          {
+            "id": "64",
+            "type": "promotion",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-08-26T03:00:00Z",
+              "end_time": "2021-09-02T02:59:59Z",
+              "eligible": true
+            },
+            "amount": 2549.25,
+            "regular_amount": 3399,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+              "promotion_id": "3795576-MLA883724911",
+              "promotion_type": "custom"
+            },
+            "last_updated": "2021-08-26T11:58:33Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 50,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2041-08-09T15:33:39.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-883724911-zapatilla-araquina-bagdad-mujer-plataforma-liviana-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_660258-MLA46507720935_062021-O.jpg",
+      "thumbnail_id": "660258-MLA46507720935_062021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 6,
+        "amount": 424.88,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": null,
+        "city_name": "CABA"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "self_service_out"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": null,
+          "name": "CABA"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "10882762",
+              "name": "Araquina",
+              "struct": null,
+              "source": 5269677440476983
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "value_id": "10882762",
+          "value_name": "Araquina",
+          "attribute_group_id": "OTHERS",
+          "source": 5269677440476983
+        },
+        {
+          "value_id": "2230284",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 1,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "source": 5269677440476983,
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Bagdad",
+              "struct": null,
+              "source": 5269677440476983
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_name": "Bagdad",
+          "value_struct": null
+        }
+      ],
+      "differential_pricing": {
+        "id": 33678187
+      },
+      "original_price": 3399,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 15,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA845894069",
+      "site_id": "MLA",
+      "title": "Zapatilla Kioshi Kaminary Negro - Hombre",
+      "seller": {
+        "id": 20123350,
+        "permalink": "http://perfil.mercadolibre.com.ar/MV-GROUP",
+        "registration_date": "2007-07-05T17:04:27.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_priority_4",
+          "credits_profile",
+          "mshops",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 11038,
+            "canceled": 859,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 10179
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0076,
+              "value": 12,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0105,
+              "value": 16,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 1453
+            },
+            "cancellations": {
+              "rate": 0.0031,
+              "value": 5,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 3599,
+      "prices": {
+        "id": "MLA845894069",
+        "prices": [
+          {
+            "id": "13",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 3599,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-08-25T14:04:33Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "5",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-03-11T04:34:05Z",
+              "end_time": "2021-03-14T04:34:05Z",
+              "eligible": true
+            },
+            "amount": 3463.71,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-03-11T04:34:05Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 500,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-03-23T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-845894069-zapatilla-kioshi-kaminary-negro-hombre-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_784708-MLA43139702971_082020-O.jpg",
+      "thumbnail_id": "784708-MLA43139702971_082020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 510.37,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlBBTDI1MTVa",
+        "city_name": "Palermo"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "fs_threshold_mla_change_feb2021",
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlBBTDI1MTVa",
+          "name": "Palermo"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "values": [
+            {
+              "struct": null,
+              "source": 1505,
+              "id": "2836191",
+              "name": "Kioshi"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "value_struct": null,
+          "source": 1505,
+          "name": "Marca",
+          "value_id": "2836191",
+          "value_name": "Kioshi"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_struct": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 3045741222775799,
+              "id": "2230284",
+              "name": "Nuevo"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_name": "Otros",
+          "source": 3045741222775799
+        },
+        {
+          "name": "Modelo",
+          "value_id": "9025195",
+          "value_name": "Kaminary",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "9025195",
+              "name": "Kaminary",
+              "struct": null,
+              "source": 1505
+            }
+          ],
+          "source": 1505,
+          "id": "MODEL",
+          "attribute_group_name": "Otros",
+          "attribute_group_id": "OTHERS"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": "MLA16124564",
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 16,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA913917743",
+      "site_id": "MLA",
+      "title": "Zapatillas Mujer Moda Plataforma Indra Las Vegas",
+      "seller": {
+        "id": 244936108,
+        "permalink": "http://perfil.mercadolibre.com.ar/ELMAGOS.A",
+        "registration_date": "2017-02-22T17:15:05.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "mshops",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 3490,
+            "canceled": 276,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 3214
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0,
+              "value": 1,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0033,
+              "value": 3,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 849
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 2990,
+      "prices": {
+        "id": "MLA913917743",
+        "prices": [
+          {
+            "id": "1",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 2990,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-03-29T15:16:36Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 50,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2041-03-24T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-913917743-zapatillas-mujer-moda-plataforma-indra-las-vegas-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_953602-MLA46571565984_062021-O.jpg",
+      "thumbnail_id": "953602-MLA46571565984_062021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 424.01,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-X",
+        "state_name": "Córdoba",
+        "city_id": null,
+        "city_name": "Bell Ville"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": [
+          "fulfillment"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-X",
+          "name": "Córdoba"
+        },
+        "city": {
+          "id": null,
+          "name": "Bell Ville"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "attribute_group_id": "OTHERS",
+          "value_name": "Indra",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Indra",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "source": 2860837171021627,
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": null
+        },
+        {
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "source": 2860837171021627,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "value_name": "Las Vegas",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "MODEL",
+          "value_id": null,
+          "values": [
+            {
+              "name": "Las Vegas",
+              "struct": null,
+              "source": 2860837171021627,
+              "id": null
+            }
+          ],
+          "source": 2860837171021627,
+          "name": "Modelo",
+          "value_struct": null
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "good_quality_picture",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 17,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA620192532",
+      "site_id": "MLA",
+      "title": "Zapatillas De Cuero Hombre Fierros Art. 09 - Talle 46",
+      "seller": {
+        "id": 154653260,
+        "permalink": "http://perfil.mercadolibre.com.ar/CALZADOSJP",
+        "registration_date": "2014-02-26T09:20:27.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_priority_4",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 39540,
+            "canceled": 2238,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 37302
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.004,
+              "value": 25,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0014,
+              "value": 9,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 5822
+            },
+            "cancellations": {
+              "rate": 0.0008,
+              "value": 5,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 4599,
+      "prices": {
+        "id": "MLA620192532",
+        "prices": [
+          {
+            "id": "6",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 4599,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-08-19T19:23:44Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "2",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-03-04T03:26:30Z",
+              "end_time": "2021-03-07T03:26:30Z",
+              "eligible": true
+            },
+            "amount": 3752.65,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-03-04T03:26:30Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 500,
+      "sold_quantity": 5000,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-05-08T20:00:09.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-620192532-zapatillas-de-cuero-hombre-fierros-art-09-talle-46-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_919521-MLA40617625014_012020-O.jpg",
+      "thumbnail_id": "919521-MLA40617625014_012020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 652.18,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Lanus Oeste"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "cross_docking",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Lanus Oeste"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "value_id": "7550431",
+          "value_name": "Fierros",
+          "source": 1577,
+          "id": "BRAND",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "7550431",
+              "name": "Fierros",
+              "struct": null,
+              "source": 1577
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "name": "Condición del ítem",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 1,
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "values": [
+            {
+              "name": "Nuevo",
+              "struct": null,
+              "source": 1,
+              "id": "2230284"
+            }
+          ]
+        },
+        {
+          "attribute_group_name": "Otros",
+          "source": 1577,
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_struct": null,
+          "values": [
+            {
+              "name": "09",
+              "struct": null,
+              "source": 1577,
+              "id": "2608622"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "value_id": "2608622",
+          "value_name": "09"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": "MLA15031028",
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 18,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA849686917",
+      "site_id": "MLA",
+      "title": "Zapatillas Moda Mujer Con Plataforma Sneakers Indra Varsovia",
+      "seller": {
+        "id": 244936108,
+        "permalink": "http://perfil.mercadolibre.com.ar/ELMAGOS.A",
+        "registration_date": "2017-02-22T17:15:05.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "mshops",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 3490,
+            "canceled": 276,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 3214
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0,
+              "value": 1,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0033,
+              "value": 3,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 849
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 3500,
+      "prices": {
+        "id": "MLA849686917",
+        "prices": [
+          {
+            "id": "28",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 3500,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-06-28T23:08:17Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "19",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-03-17T04:52:05Z",
+              "end_time": "2021-03-20T04:52:05Z",
+              "eligible": true
+            },
+            "amount": 2990,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-03-17T04:52:06Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 100,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2040-04-11T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-849686917-zapatillas-moda-mujer-con-plataforma-sneakers-indra-varsovia-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_920468-MLA41999030895_052020-O.jpg",
+      "thumbnail_id": "920468-MLA41999030895_052020",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 496.33,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-X",
+        "state_name": "Córdoba",
+        "city_id": null,
+        "city_name": "Bell Ville"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-X",
+          "name": "Córdoba"
+        },
+        "city": {
+          "id": null,
+          "name": "Bell Ville"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "value_id": null,
+          "value_name": "Indra",
+          "values": [
+            {
+              "name": "Indra",
+              "struct": null,
+              "source": 2860837171021627,
+              "id": null
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "source": 2860837171021627
+        },
+        {
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 2860837171021627,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem"
+        },
+        {
+          "source": 2860837171021627,
+          "id": "MODEL",
+          "values": [
+            {
+              "id": null,
+              "name": "Varsovia",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "Varsovia",
+          "value_struct": null
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA109027",
+      "official_store_id": null,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "order_backend": 19,
+      "use_thumbnail_id": false
+    },
+    {
+      "id": "MLA917512742",
+      "site_id": "MLA",
+      "title": "Zapatilla Topper Profesional + Blanco",
+      "seller": {
+        "id": 608887919,
+        "permalink": "http://perfil.mercadolibre.com.ar/MERCADOLIBRE+MODA_AR",
+        "registration_date": "2020-07-13T14:31:00.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "user_info_verified",
+          "large_seller",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 62761,
+            "canceled": 6803,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "positive": 0.95,
+              "neutral": 0.02
+            },
+            "completed": 55958
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0034,
+              "value": 103,
+              "period": "60 days"
+            },
+            "delayed_handling_time": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            },
+            "sales": {
+              "period": "60 days",
+              "completed": 27364
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "60 days"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 4112,
+      "prices": {
+        "id": "MLA917512742",
+        "prices": [
+          {
+            "id": "27",
+            "type": "standard",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": null,
+              "end_time": null,
+              "eligible": true
+            },
+            "amount": 5299,
+            "regular_amount": null,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+            },
+            "last_updated": "2021-06-01T17:10:45Z"
+          },
+          {
+            "id": "79",
+            "type": "promotion",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-08-23T01:00:00Z",
+              "end_time": "2021-09-07T02:59:00Z",
+              "eligible": true
+            },
+            "amount": 4112,
+            "regular_amount": 5299,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "metadata": {
+              "campaign_id": "MLA6791",
+              "promotion_id": "MLA6791",
+              "promotion_type": "campaign"
+            },
+            "last_updated": "2021-08-23T02:36:06Z"
+          }
+        ],
+        "presentation": {
+          "display_currency": "ARS"
+        },
+        "payment_method_prices": [
+        ],
+        "reference_prices": [
+          {
+            "id": "83",
+            "type": "was",
+            "conditions": {
+              "context_restrictions": [
+              ],
+              "start_time": "2021-08-26T04:17:25Z",
+              "end_time": "2021-08-29T04:17:25Z",
+              "eligible": true
+            },
+            "amount": 4239,
+            "currency_id": "ARS",
+            "exchange_rate_context": "DEFAULT",
+            "tags": [
+            ],
+            "last_updated": "2021-08-26T04:17:25Z"
+          }
+        ],
+        "purchase_discounts": [
+        ]
+      },
+      "sale_price": null,
+      "currency_id": "ARS",
+      "available_quantity": 500,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2041-04-17T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-917512742-zapatilla-topper-profesional-blanco-_JM",
+      "thumbnail": "http://http2.mlstatic.com/D_777014-MLA45670836851_042021-O.jpg",
+      "thumbnail_id": "777014-MLA45670836851_042021",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 6,
+        "amount": 685.33,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Villa Celina"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "fulfillment",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Villa Celina"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_id": "415948",
+          "value_name": "Topper",
+          "values": [
+            {
+              "id": "415948",
+              "name": "Topper",
+              "struct": null,
+              "source": 8748668969142
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "name": "Marca",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "source": 8748668969142,
+          "id": "BRAND"
+        },
+        {
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "ITEM_CONDITION",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1
+        },
+        {
+          "value_id": "5630632",
+          "source": 8748668969142,
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_name": "Profesional +",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "5630632",
+              "name": "Profesional +",
+              "struct": null,
+              "source": 8748668969142
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        }
+      ],
+      "differential_pricing": {
+        "id": 33678187
+      },
+      "original_price": 5299,
+      "category_id": "MLA109027",
+      "official_store_id": 1,
+      "domain_id": "MLA-SNEAKERS",
+      "catalog_product_id": "MLA16201638",
+      "tags": [
+        "ahora-6",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "immediate_payment",
+        "shipping_guaranteed",
+        "best_seller_candidate"
+      ],
+      "order_backend": 20,
+      "use_thumbnail_id": false
+    }
+  ]
+}
