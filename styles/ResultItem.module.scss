@@ -1,0 +1,43 @@
+.item {
+  border-bottom: 1px solid var(--grey-700);
+  padding: 1rem 0;
+
+  &:last-child {
+    border-bottom: 0;
+  }
+
+  a {
+    color: var(--black);
+  }
+
+  .container {
+    &> div {
+      position: unset !important;
+    }
+  
+    .image {
+      object-fit: contain;
+      width: 100% !important;
+      position: relative !important;
+      height: unset !important;
+      border-radius: 4px;
+    }
+  }
+
+  .header {
+    .price {
+      font-size: 1.5rem;
+      padding-bottom: 2rem;
+      margin-bottom: 0;
+    }
+
+    .location {
+      font-size: 0.75rem;
+    }
+  }
+
+  .description {
+    font-size: 1.125rem;
+  }
+}
+

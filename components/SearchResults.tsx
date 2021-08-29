@@ -1,4 +1,4 @@
-import Breadcrum from './Breadcrum';
+import Breadcrumb from './Breadcrumb';
 import ResultItem from './ResultItem';
 import rawData from '../mockData.json';
 
@@ -19,9 +19,9 @@ const SearchResults = () => {
     <main>
       <div className="container d-flex flex-column align-items-center">
         <div className="col-10">
-          <Breadcrum />
+          <Breadcrumb />
         </div>
-        <div className="col-10">
+        <div className="col-10 bg-white rounded px-3 mb-4">
           {newData.items.map((prod: any) => (
             <ResultItem
               key={prod.id}

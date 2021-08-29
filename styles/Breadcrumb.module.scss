@@ -1,0 +1,13 @@
+.breadcrumb {
+  padding: 1rem 0;
+
+  a {
+    font-size: 0.875rem;
+    color: var(--black);
+    font-weight: 400;
+
+    &:last-child {
+      font-weight: 500;
+    }
+  }
+}
