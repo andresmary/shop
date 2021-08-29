@@ -1,9 +1,17 @@
 import styles from '../styles/Breadcrumb.module.scss'
 
-const Breadcrumb = () => {
+export type BreadcrumbType = {
+  categories: Array<string>,
+};
+
+const Breadcrumb = ({ categories }: BreadcrumbType) => {
   return (
     <div className={styles.breadcrumb}>
-      <a href="#1">Cat 1</a> {'>'} <a href="#2">Cat 2</a> {'>'} <a href="#2">Cat 2</a>
+      {categories.map((prod: any) => (
+        <>
+          <a key={`${prod}_a`} href="#1">{prod}</a>{' > '}
+        </>
+      ))}
     </div>
   )
 }
