@@ -21,7 +21,6 @@ const Items = ({ formatedResponse }: DatosType) => {
 export async function getServerSideProps(context:any) {
   const search = context.query.search;
   const response = await ShopApi.getProducts(search);
-  console.log(response[0].category_id);
 
   const formatedResponse = {
     author: {
@@ -32,7 +31,14 @@ export async function getServerSideProps(context:any) {
     items: [{}],
   };
   formatedResponse.categories = response.map((cat:any) => cat.category_id);
-  formatedResponse.items = response;
+  formatedResponse.items = response.map((item:any) => {
+    return {
+      ...item,
+      price: new Intl.NumberFormat('es-AR').format(Math.floor(item.price))
+    }
+  }); 
+  
+  
 
   return { props: { formatedResponse } };
 }

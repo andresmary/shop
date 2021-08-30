@@ -7,9 +7,9 @@ export type BreadcrumbType = {
 const Breadcrumb = ({ categories }: BreadcrumbType) => {
   return (
     <div className={styles.breadcrumb}>
-      {categories.map((prod: any) => (
+      {categories.map((prod: any, index) => (
         <>
-          <a key={`${prod}_a`} href="#1">{prod}</a>{' > '}
+          <a key={`b_${index}`} href="#1">{prod}</a>{' > '}
         </>
       ))}
     </div>

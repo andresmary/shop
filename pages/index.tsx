@@ -6,7 +6,7 @@ const HomeShop = () => {
   return (
     <div>
       <SearchBox />
-      <div className="container">
+      <div className="container-xxl">
         <div className="row d-flex flex-column align-items-center">
           <div className="col-10 d-flex g-0 flex-wrap">
           {bannersData.bannersHome.map((banner: any) => (

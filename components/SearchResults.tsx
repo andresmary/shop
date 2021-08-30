@@ -11,7 +11,7 @@ export type SearchResultsType = {
 const SearchResults = ({ response }: SearchResultsType) => {
   return (
     <main>
-      <div className="container d-flex flex-column align-items-center">
+      <div className="container-xxl d-flex flex-column align-items-center">
         <div className="col-10">
           <Breadcrumb categories={response.categories} />
         </div>
@@ -19,11 +19,11 @@ const SearchResults = ({ response }: SearchResultsType) => {
           {response.items.map((prod: any) => (
             <ResultItem
               key={prod.id}
+              id={prod.id}
               img={prod.thumbnail}
               price={prod.price}
               location={prod.address.city_name}
               description={prod.title}
-              link={prod.permalink}
               shipping={prod.shipping.free_shipping}
             />
           ))}
