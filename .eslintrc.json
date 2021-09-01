@@ -1,5 +1,22 @@
 {
   "extends": "next/core-web-vitals",
+  "env": {
+    "node": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "settings": {
+    "react": {
+      "version": "17"
+    },
+    "import/resolver": {
+      "typescript": {
+        "project": "."
+      }
+    }
+  },
   "rules": {
     "max-len": ["error", { "ignoreComments": true, "code": 150 }],
     "eol-last": ["error", "always"],

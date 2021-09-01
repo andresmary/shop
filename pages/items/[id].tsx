@@ -18,14 +18,18 @@ export type ItemsType = {
       sold_quantity: number,
       description: string,
     }
-  }
+  },
+  categoryList: Array<{
+    id: string,
+    name: string,
+  }>
 };
 
-const Items = ({ formatedResponse }: ItemsType) => {
+const Items = ({ formatedResponse, categoryList }: ItemsType) => {
   return (
     <div>
       <SearchBox />
-      <Product response={formatedResponse} />
+      <Product response={formatedResponse} category={categoryList} />
     </div>
   )
 }
@@ -34,6 +38,9 @@ export async function getServerSideProps(context:any) {
   const search = context.query.id.slice(1);
   const response = await ShopApi.getItem(search);
   const responseDescription = await ShopApi.getItemDescription(search);
+  const currency = await ShopApi.getCurrency(response.currency_id);
+  const category = await ShopApi.getCategories(response.category_id);
+  const categoryList = category.path_from_root;
 
   const formatedResponse = {
     author: {
@@ -46,7 +53,7 @@ export async function getServerSideProps(context:any) {
     id: response.id,
     title: response.title,
     price: {
-      currency: response.currency_id,
+      currency: currency.symbol,
       amount: new Intl.NumberFormat('es-AR').format(Math.floor(response.price)),
       decimals: (response.price - Math.floor(response.price)).toFixed(2).slice(2),
     },
@@ -57,7 +64,7 @@ export async function getServerSideProps(context:any) {
     description: responseDescription,
   };
 
-  return { props: { formatedResponse } };
+  return { props: { formatedResponse, categoryList } };
 }
 
 export default Items

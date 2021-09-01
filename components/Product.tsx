@@ -18,16 +18,20 @@ export type ProductType = {
       sold_quantity: number,
       description: string,
     }
-  }
+  },
+  category: Array<{
+    id: string,
+    name: string,
+  }>
 };
 
-// ajustar moneda
-
-const Product = ({ response }: ProductType) => {
+const Product = ({ response, category }: ProductType) => {
   return (
     <main>
       <div className='container-xxl d-flex flex-column align-items-center'>
-        <div className='col-10'>{/* <Breadcrumb categories={response.categories} /> */}</div>
+        <div className='col-10'>
+          <Breadcrumb categories={category} />
+        </div>
         <div className={`col-10 bg-white rounded mb-4 ${styles.product}`}>
           <div className='d-flex justify-content-between'>
             <div className={`${styles.container}`}>
@@ -40,7 +44,7 @@ const Product = ({ response }: ProductType) => {
               </h3>
               <h2 className={styles.title}>{response.item.title}</h2>
               <h1 className={`${styles.price} d-flex align-items-start`}>
-                $ {response.item.price.amount}
+                {response.item.price.currency} {response.item.price.amount}
                 <span>{response.item.price.decimals}</span>
               </h1>
               <button className={styles.buy} type='button'>Comprar</button>

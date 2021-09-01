@@ -26,9 +26,27 @@ const getItemDescription = (value: string) =>
     return response.data.plain_text;
   });
 
+const getCurrency = (value: string) =>
+  Axios.get(`${SHOPAPI_URL}currencies/${value}`).then((response) => {
+    if (response.status !== 200) {
+      return Promise.reject(response.data);
+    }
+    return response.data;
+  });
+
+const getCategories = (value: string) =>
+  Axios.get(`${SHOPAPI_URL}categories/${value}`).then((response) => {
+    if (response.status !== 200) {
+      return Promise.reject(response.data);
+    }
+    return response.data;
+  });
+
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
   getProducts,
   getItem,
   getItemDescription,
+  getCurrency,
+  getCategories,
 };

@@ -1,5 +1,8 @@
+import { useEffect, useState } from 'react';
 import Breadcrumb from './Breadcrumb';
 import ResultItem from './ResultItem';
+import { findRepeatedCategory } from '../utilities/functions';
+import ShopApi from '../api/ShopApi';
 
 export type SearchResultsType = {
   response: {
@@ -9,11 +12,31 @@ export type SearchResultsType = {
 };
 
 const SearchResults = ({ response }: SearchResultsType) => {
+  const [category, setCategory] = useState('');
+  const [categoryData, setCategoryData] = useState([]);
+
+  useEffect(() => {
+    const findRepeated = findRepeatedCategory(response.categories);
+    setCategory(findRepeated);
+  }, [response.categories]);
+
+  useEffect(() => {
+    if (category !== '') {
+      findCategories();
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [category]);
+  
+  const findCategories = async () => {
+    const categoryResponse = await ShopApi.getCategories(category);
+    setCategoryData(categoryResponse.path_from_root);
+  }
+
   return (
     <main>
       <div className="container-xxl d-flex flex-column align-items-center">
         <div className="col-10">
-          <Breadcrumb categories={response.categories} />
+          <Breadcrumb categories={categoryData} />
         </div>
         <div className="col-10 bg-white rounded px-3 mb-4">
           {response.items.map((prod: any) => (
