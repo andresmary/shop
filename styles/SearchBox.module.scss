@@ -11,6 +11,11 @@
     font-size: 1.125rem;
     line-height: 1.25;
     padding: 0.438rem 1rem;
+
+    &:focus {
+      outline: none;
+      box-shadow: none;
+    }
   }
 
   button {

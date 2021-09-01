@@ -4,16 +4,14 @@ body {
   --grey-900: #666666;
   --grey-800: #999999;
   --grey-700: #eeeeee;
+  --grey-600: #e6e6e6;
   --blue: #3483fa;  
 }
 
-$colors: "yellow", "black", "grey-900", "grey-800", "grey-700", "blue";
+$colors: "yellow", "black", "grey-900", "grey-800", "grey-700", "grey-600" "blue";
 
 @each $color in $colors {
   .color-#{$color} {
-    color: var(--#{$color}) !important;
-  }
-  .icon-color-#{$color} > span {
     color: var(--#{$color}) !important;
   }
 }

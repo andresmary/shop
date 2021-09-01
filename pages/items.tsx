@@ -1,4 +1,3 @@
-import SearchBox from '../components/SearchBox';
 import SearchResults from '../components/SearchResults';
 import ShopApi from '../api/ShopApi';
 
@@ -6,15 +5,13 @@ export type DatosType = {
   formatedResponse: {
     categories: Array<string>,
     items: Array<string>,
-  }
+  },
+  search: string,
 };
 
-const Items = ({ formatedResponse }: DatosType) => {
+const Items = ({ formatedResponse, search }: DatosType) => {
   return (
-    <div>
-      <SearchBox />
-      <SearchResults response={formatedResponse} />
-    </div>
+    <SearchResults response={formatedResponse} />
   )
 }
 
@@ -38,7 +35,7 @@ export async function getServerSideProps(context:any) {
     }
   }); 
   
-  return { props: { formatedResponse } };
+  return { props: { formatedResponse, search } };
 }
 
 export default Items

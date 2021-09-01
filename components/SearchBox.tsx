@@ -13,7 +13,7 @@ const SearchBox = () => {
   
   const search = (e:any) => {
     e.preventDefault();
-    router.push(`/items?search=${searchTerm}`);
+    router.push(`/items?search=${searchTerm}`)
   };
 
   return (

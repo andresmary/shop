@@ -1,4 +1,3 @@
-import SearchBox from '../../components/SearchBox';
 import Product from '../../components/Product';
 import ShopApi from '../../api/ShopApi';
 
@@ -27,10 +26,7 @@ export type ItemsType = {
 
 const Items = ({ formatedResponse, categoryList }: ItemsType) => {
   return (
-    <div>
-      <SearchBox />
-      <Product response={formatedResponse} category={categoryList} />
-    </div>
+    <Product response={formatedResponse} category={categoryList} />
   )
 }
 

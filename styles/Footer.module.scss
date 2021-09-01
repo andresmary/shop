@@ -1,0 +1,27 @@
+.footer {
+  border-top: 1px solid var(--grey-600);
+  background-color: #ffffff;
+  line-height: 1rem;
+  font-size: 0.813rem;
+  font-weight: 400;
+  color: var(--grey-800);
+
+  nav {
+    margin: 0 0 0.625rem;
+
+    a {
+      color: var(--black);
+      padding: 0 1rem 0 0;
+    }
+  }
+
+  .copyright {
+    font-size: 0.75rem;
+    padding: 0 0 0.313rem;
+  }
+
+  .secondaryinfo {
+    font-size: 0.75rem;
+    margin: 0;
+  }
+}
