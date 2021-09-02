@@ -28,15 +28,15 @@ export type ProductType = {
 const Product = ({ response, category }: ProductType) => {
   return (
     <div className='container-xxl d-flex flex-column align-items-center'>
-      <div className='col-10'>
+      <div className='col-12 col-lg-10'>
         <Breadcrumb categories={category} />
       </div>
-      <div className={`col-10 bg-white rounded mb-4 ${styles.product}`}>
-        <div className='d-flex justify-content-between'>
+      <div className={`col-12 col-lg-10 bg-white rounded mb-4 ${styles.product}`}>
+        <div className='d-flex flex-column flex-lg-row justify-content-between'>
           <div className={`${styles.container}`}>
             <Image src={response.item.picture} alt='' layout='fill' className={styles.image} />
           </div>
-          <div className='flex-column col-3'>
+          <div className='flex-column col-12 col-lg-3'>
             <h3 className={styles.condition}>
               {response.item.condition === 'new' ? 'Nuevo' : 'Usado'} -{" "}
               {response.item.sold_quantity > 1 ? `${response.item.sold_quantity} vendidos` : `${response.item.sold_quantity} vendido`}

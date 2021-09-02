@@ -11,7 +11,7 @@ export type BannerType = {
 
 const Banner = ({ img, title, deal, info, link }: BannerType) => {
   return (
-    <div className={`col-6 col-md-2 ${styles.banner}`}>
+    <div className={`col-6 col-md-3 col-lg-2 ${styles.banner}`}>
       <a href={link}>
         <div className={`${styles.box} border bg-white rounded p-2 m-2`}>
           <Image src={img} alt="" width={120} height={120} />

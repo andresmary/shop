@@ -5,7 +5,7 @@ const HomeShop = () => {
   return (
     <div className="container-xxl">
       <div className="row d-flex flex-column align-items-center">
-        <div className="col-10 d-flex g-0 flex-wrap">
+        <div className="col-12 col-lg-10 d-flex g-0 flex-wrap">
         {bannersData.bannersHome.map((banner: any) => (
           <Banner
             key={banner.id}

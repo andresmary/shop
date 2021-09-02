@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer role="contentinfo" className={styles.footer}>
       <div className="container-xxl d-flex justify-content-center align-items-center">
-        <div className="col-10 py-3">
+        <div className="col-12 col-lg-10 py-3">
           <div>
             <nav>
               <a href="https://careers-meli.mercadolibre.com/?utm_campaign=site-mla&amp;utm_source=mercadolibre&amp;utm_medium=mercadolibre">

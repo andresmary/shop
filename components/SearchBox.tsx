@@ -19,12 +19,12 @@ const SearchBox = () => {
   return (
     <header>
       <div className="container-xxl d-flex justify-content-center align-items-center">
-        <div className={`col-1 py-1 ${styles.container}`}>
+        <div className={`col-2 col-lg-1 py-1 ${styles.container}`}>
           <Link href="/">
             <a><Image src="/images/Logo_ML@2x.png" alt='' width={53} height={36} /></a>
           </Link>
         </div>
-        <div className="col-9">
+        <div className="col-10 col-lg-9">
           <form onSubmit={search} className={`w-100 d-flex ${styles.search}`}>
             <input
               type="text"

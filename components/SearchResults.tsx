@@ -34,10 +34,10 @@ const SearchResults = ({ response }: SearchResultsType) => {
 
   return (
     <div className="container-xxl d-flex flex-column align-items-center">
-      <div className="col-10">
+      <div className="col-12 col-lg-10">
         <Breadcrumb categories={categoryData} />
       </div>
-      <div className="col-10 bg-white rounded px-3 mb-4">
+      <div className="col-12 col-lg-10 bg-white rounded px-3 mb-4">
         {response.items.map((prod: any) => (
           <ResultItem
             key={prod.id}
